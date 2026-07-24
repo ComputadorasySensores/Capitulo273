@@ -8,5 +8,5 @@ Códigos en Python para encender 3 LEDs utilizando los GPIOs 25,23 y 22. Tambié
 # Paso a paso
 
 La explicación completa la podrás ver en el siguiente video de Youtube:
-
+https://youtu.be/9N0GSZyEMTc
 
